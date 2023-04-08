@@ -1,3 +1,8 @@
+
+---
+> Currently for **Windows** only.
+---
+
 # Modding Framework
 
 This software is intended to allow you to make your *own* modding framework for *any game.*
