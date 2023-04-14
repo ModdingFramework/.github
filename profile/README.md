@@ -9,7 +9,7 @@ This software is intended to allow you to make your *own* modding framework for 
 
 If you have ever used software such as Cheat Engine, IDA Pro, or Ghidra - *then this is for you!*
 
-Ok, well... the software doesn't exist _yet_. But we're working on it!
+> **Ok, well... the software doesn't exist _yet_. But we're working on it!**
 
 When ready, this framework should allow you to create mods using:
 - any native language which can export C functions (C++, Rust, etc)
