@@ -43,4 +43,6 @@ You **MUST** check the Terms of Usage for any games/software which you reverse e
 
 We take **no responsibility** for anyone who uses this software to reverse engineer games/software which **prohibit reverse engineering**.
 
+> _Like **seriously**, y'all. Use this for your **own** games or old **public domain** games, etc. I take **zero** responsibility._
+
 ### Happy Modding!
