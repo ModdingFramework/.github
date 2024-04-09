@@ -44,6 +44,12 @@ Thank you for your support and understanding! I hope this tool helps breathe new
 > Currently for **Windows** only.
 ---
 
+**2024 Update**: Actually there's really nothing here that works yet 😹
+
+_Maybe later this year there will actually be some working software..._
+
+---
+
 # Modding Framework
 
 This software is intended to allow you to make your *own* modding framework for *any game.*
